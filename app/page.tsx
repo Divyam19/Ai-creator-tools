@@ -5,7 +5,7 @@ export default function Home() {
   return (
       <div>
         <form>
-          <label>Login</label>
+          <label>Login form</label>
           <br/>
           <label>Enter Email</label>
           <br/>
